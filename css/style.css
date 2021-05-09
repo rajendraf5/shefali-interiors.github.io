@@ -1366,7 +1366,7 @@ select:focus {
     position: relative;
     display: block;
     background: #f6f6f6;
-    padding: 15px 0;
+    padding: 10px 0;
 }
 .header-lower-style1 .inner-content{
     position: relative;
@@ -1447,15 +1447,15 @@ select:focus {
 .header-social-links-style1 li a i{
     position: relative;
     display: block;
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     border-radius: 50%;
     background: #ffffff;
     color: #7c7e84;
     font-size: 14px;
-    line-height: 50px;
+    line-height: 40px;
     text-align: center;
-    transition: all 700ms ease 100ms; 
+    transition: all 700ms ease 100ms;
 }
 .header-social-links-style1 li a:hover i{
     color: #ffffff;
